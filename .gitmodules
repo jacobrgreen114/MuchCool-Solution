@@ -1,0 +1,6 @@
+[submodule "Libraries/SharperC"]
+	path = Libraries/SharperC
+	url = https://github.com/jacobrgreen114/SharperC.git
+[submodule "Libraries/UGFX"]
+	path = Libraries/UGFX
+	url = https://github.com/jacobrgreen114/UGFX.git
